@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skull-Ripper-359
-- 👀 I’m interested in .coding, hacking, developing, basically anything that requires computer/laptop.
+- 👀 I’m interested in coding, hacking, developing, basically anything that requires computer/laptop.
 - 🌱 I’m currently learning python, html, css, java, javascript.
 - 💞️ I’m looking to collaborate on AI and ML projects.
 - 📫 How to reach me mail, call, insta.
